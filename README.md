@@ -1,5 +1,5 @@
 # MetadataCSW
-Implemetasi Metadata CSW Geoserver untuk integrasi degan JIG dan SDI
+Implemetasi Metadata CSW Geoserver untuk integrasi dengan  JIGN dan SDI
 1. Install plugin kedalam geoserver dengan cara mengcopy plugin ke folder bin
 2. Restart Apace Tomcat anda
 3. dinsarankan menginstall plugin satu-persatu, dan restar apace tomcat setiap kali menginstall satu plugin
