@@ -1,0 +1,9 @@
+    <servlet>
+      <servlet-name>metadata</servlet-name>
+      <servlet-class>org.geoserver.community.gs-metadata</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>metadata</servlet-name>
+        <url-pattern>/webapps/geoserver/WEB-INF/lib/*</url-pattern>
+    </servlet-mapping>
